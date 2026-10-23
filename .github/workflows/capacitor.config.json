@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.myassistant.app",
+  "appName": "MyAssistant",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
